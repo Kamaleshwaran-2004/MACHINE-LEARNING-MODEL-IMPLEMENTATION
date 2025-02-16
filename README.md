@@ -44,4 +44,5 @@ The script uses the following libraries:
 - sklearn for machine learning tasks
 
   OUTPUT;
+         ![Image](https://github.com/user-attachments/assets/be929315-cd75-4b78-989c-e2be145a106d)
   

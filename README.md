@@ -42,4 +42,6 @@ The script uses the following libraries:
 - string for string manipulation
 - matplotlib and seaborn for visualization
 - sklearn for machine learning tasks
-- 
+
+  OUTPUT;
+         ![Image](https://github.com/user-attachments/assets/05bf2c74-1c92-4fc0-a26b-aa17db174594)
